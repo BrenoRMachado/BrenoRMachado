@@ -1,6 +1,6 @@
 # Eai!!!
 
-Prazer, eu me chamo Breno! Estudante do curso de Sistemas de Informação na Universidade Federal de Juiz de Fora. Apaixonado por tecnologia, estou sempre animado para aprender mais e explorar o que o futuro reserva.
+Prazer, eu me chamo Breno! Sou um estudante do curso de Sistemas de Informação na Universidade Federal de Juiz de Fora. Sou apaixonado por tecnologia, estou sempre animado para aprender mais e explorar o que o futuro reserva.
 
 ---
 
